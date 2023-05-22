@@ -12,3 +12,13 @@ h1 {
    font-size: 40px;
    
 }
+
+img {
+    max-width: 300px;
+    max-height: 300px;
+}
+a img {
+    max-width: 300px;
+    max-height: 300px;
+}
+
